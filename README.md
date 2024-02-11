@@ -20,13 +20,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-
+<p align="left"> <a <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img align="left" alt="C" width="30px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/c.png" />
 <img align="left" alt="C++" width="30px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/c++.png" />
 <img align="left" alt="Python" width="30px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/Python-.png" />
 <img align="left" alt="ROS" width="50px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/ros-logo.png" />
-
+</a>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravivarma0707&show_icons=true&locale=en&layout=compact" alt="ravivarma0707" /></p>
