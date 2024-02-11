@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAVA and DSA**
 
-- 💬 Ask me about **ROS , CORE JAVA , DSA**
+- 💬 Ask me about **ROS ,C ,C++ , CORE JAVA , DSA**
 
 - 📫 How to reach me **ravivarmaed@gmail.com**
 
