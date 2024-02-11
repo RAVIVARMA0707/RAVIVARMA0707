@@ -23,8 +23,8 @@
 <p align="left"> <a <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <img alt="ROS" width="50px" src="https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/11/26/ros-logo.jpg" /> 
-  <img alt="Linux" width="40px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/linux.png" /> 
-  <img  alt="GAZEBO" width="50px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/gazebo.svg" />  </p>
+  <img alt="Linux" width="35px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/linux.png" /> 
+  <img  alt="GAZEBO" width="45px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/gazebo.svg" />  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravivarma0707&show_icons=true&locale=en&layout=compact" alt="ravivarma0707" /></p>
 
