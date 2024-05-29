@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.acodez.in/wp-content/uploads/2019/09/Microsoft-Robotics-Developer-Studio.jpg)
+![image](https://github.com/RAVIVARMA0707/RAVIVARMA0707/assets/96245458/2076de61-6add-4ee2-a8e5-0fd6cf8f580c)![MasterHead](https://cdn.acodez.in/wp-content/uploads/2019/09/Microsoft-Robotics-Developer-Studio.jpg)
 <h1 align="center">Hi 👋, I'm RAVIVARMA E D</h1>
 <h3 align="center">An enthusiastic technologist with expertise in C, C++, and Java,SQl as well as a strong understanding of Data Structures and Algorithms and Proficient in Linux, ROS, Arduino, and PLC.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -27,7 +27,7 @@
     <img  alt="Git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <img alt="ROS" width="50px" src="https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/11/26/ros-logo.jpg" /> 
+  <img alt="ROS" width="50px" src="https://www.theconstruct.ai/wp-content/uploads/2015/10/rosLarge.png" /> 
   <img alt="Linux" width="35px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/linux.png" /> 
   <img  alt="GAZEBO" width="45px" src="https://github.com/Yasvanth-S/Yasvanth-S/blob/master/assets/gazebo.svg" /> 
   <img  alt="Arduino" width="45px" src="https://i.pngimg.me/thumb/f/720/m2i8Z5A0m2Z5d3H7.jpg" /> 
