@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ravivarmaed@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFiw2VvEmI/pi3pNpZKAdTecTlayZNsLw/view?utm_content=DAFiw2VvEmI&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGXUkJhNZg/U8KY1nR39XJmbwviWg_A7Q/view?utm_content=DAGXUkJhNZg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec91002fbf">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
