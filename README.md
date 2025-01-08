@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/11/50/71/59/240_F_1150715993_odIWFSrHvGrLGyU0D0EmXhEz5a30e11T.jpg)
+![MasterHead](https://www.canva.com/design/DAGblFiWDXs/e9T5o5XKcPge-4oJBLcZtQ/view?utm_content=DAGblFiWDXs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b7b98ad1c)
 <h1 align="center">Hi 👋, I'm RAVIVARMA E D</h1>
 <h3 align="center">An enthusiastic technologist with expertise in C, C++, and Java,SQl as well as a strong understanding of Data Structures and Algorithms and Proficient in Linux, ROS, Arduino, and PLC.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
