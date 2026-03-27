@@ -25,16 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/RAVIVARMA0707/RAVIVARMA0707/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
